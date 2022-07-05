@@ -1,7 +1,6 @@
 ### Olá pessoal 👋
 
-## Pablo Kauê
-### Sou Desenvolvedor Front-end Jr. 
+- Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Front-end Jr.
 
 #### Atualmente uso
 <div>
