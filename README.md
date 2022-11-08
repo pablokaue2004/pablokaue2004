@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Front-end Jr. Atualmente trabalho com a criação de sistemas e app's em geral.
+- Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente trabalho com a criação de sistemas e app's em geral.
 
 #### Atualmente uso
 <div>
@@ -10,6 +10,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  
 </div>
 
 ### Contatos:
