@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente trabalho com a criação de sistemas e app's em geral.
+Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente trabalho com a criação de sistemas e app's em geral.
 
 #### Atualmente uso
 <div>
