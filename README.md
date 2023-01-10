@@ -1,8 +1,13 @@
-### Olá pessoal 👋
+<h1 align="center">Opa, Me chamo Kauê!👋</h1>
 
-Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente trabalho com a criação de sistemas e app's em geral.
+<h3 align="center">Sou Desenvolvedor FrontEnd Jr. ✍</h3>
 
-#### Atualmente uso
+- 💻 Técnico em informatica pela EEEP Maria Célia Pinheiro Falcão
+- 💼 Atualmente trabalho com a criação de sistemas e app's em geral
+- 🧘‍♂️ Em costante estudo (Laravel, VueJS, React Native e ReactJs)
+
+## Habilidades
+<table cellspacing="0" cellpadding="0" style="border: none;"><tr><td valign="top" width="100%">
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -15,10 +20,10 @@ Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  
 </div>
+</table>
 
-### Contatos:
+## Contatos
 
 <div>
 <a href="https://instagram.com/pablokaue_2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,4 +31,8 @@ Me chamo Pablo Kauê, amante da programação, sou Desenvolvedor Jr. Atualmente 
 <a href="https://www.linkedin.com/in/pablo-kau%C3%AA-454180207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Estatísticas do Github
+![](https://github-readme-stats.vercel.app/api?username=pablokaue2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pablokaue2004&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaue2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
