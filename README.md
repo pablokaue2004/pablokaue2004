@@ -34,5 +34,7 @@
 ## Estatísticas do Github
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablokaue2004&theme=github_dark&hide_border=false)<br/>
+  
+  ![Snake animation](https://github.com/pablokaue2004/pablokaue2004/blob/output/github-contribution-grid-snake.svg)
 
 
