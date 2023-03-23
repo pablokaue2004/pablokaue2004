@@ -1,3 +1,10 @@
+
+<div align="right">
+
+[![Visitors](https://komarev.com/ghpvc/?username=tharlys10&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Tharlys10)
+
+</div>
+
 <h1 align="center">Opa, Me chamo Kauê!👋</h1>
 
 <h3 align="center">Sou Desenvolvedor FrontEnd Jr. ✍</h3>
