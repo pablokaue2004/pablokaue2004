@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 # Olá, eu sou o Kauê! 👋
 
