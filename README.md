@@ -10,8 +10,8 @@
 
 ## Sobre mim
 
-- 💻 Técnico em Informática pela EEEP Maria Célia Pinheiro Falcão.
-- 💼 Desenvolvedor Front-End Jr.
+- 💻 Técnico em Informática pela EEEP Maria Célia Pinheiro Falcão || Graduando em Análise e desenvolvimento de Sistemas (Unopar).
+- 💼 Software Developer.
 - 🌱 Apaixonado por aprender novas tecnologias.
 
 ## Habilidades
