@@ -24,7 +24,7 @@
 ### Linguagens de Programação
 
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,css,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ### Frameworks e Bibliotecas
