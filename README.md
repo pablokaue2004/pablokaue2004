@@ -62,4 +62,5 @@
 ## Estatísticas do Github
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablokaue2004&theme=github_dark&hide_border=false)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablokaue2004&bg_color=e4e0f0&color=76A6DD&line=76A6DD&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=footer"/>
