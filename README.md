@@ -1,12 +1,8 @@
-<div align="right">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=header"/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=pablokaue2004&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pablokaue2004)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76A6DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Pablo+Kaue+👋;Programador+Software+Develop;)](https://git.io/typing-svg)
 
 <div align="left">
-
-# Olá, eu sou o Kauê! 👋
 
 ## Sobre mim
 
@@ -66,3 +62,4 @@
 ## Estatísticas do Github
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablokaue2004&theme=github_dark&hide_border=false)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=header"/>
