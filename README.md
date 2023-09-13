@@ -62,4 +62,4 @@
 ## Estatísticas do Github
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablokaue2004&theme=github_dark&hide_border=false)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=footer"/>
